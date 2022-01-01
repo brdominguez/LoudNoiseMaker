@@ -1,0 +1,6 @@
+version=1
+id=2703098448
+title=Loud Noise Maker
+description=Increases the noise range of the craftable noise maker.
+tags=
+visibility=unlisted

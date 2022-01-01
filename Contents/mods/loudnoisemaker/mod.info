@@ -1,0 +1,5 @@
+name=Loud Noise Maker
+poster=poster.png
+id=loud_noise_maker
+description=Increases the noise range of the craftable noise maker.
+require=ItemTweakerAPI
